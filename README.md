@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Alexandr Tichonov  
-**Aspiring SOC Analyst | Security+ | PJPT | PNPT | Building hands-on projects in SOC automation and defensive security**  
 <a href="https://www.linkedin.com/in/alexandr-tichonov-0a4423329/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
+
+**Aspiring SOC Analyst | Security+ | PJPT | PNPT | Building hands-on projects in SOC automation and defensive security**  
 
 ## Introduction  
 
