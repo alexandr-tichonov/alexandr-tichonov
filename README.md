@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexandr Tichonov  
+**Aspiring SOC Analyst | Security+ | PJPT | PNPT | Building hands-on projects in SOC automation and defensive security**  
+<a href="https://www.linkedin.com/in/alexandr-tichonov-0a4423329/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
 
-<!--
-**alexandr-tichonov/alexandr-tichonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction  
 
-Here are some ideas to get you started:
+My journey in computer science sparked a strong interest in cybersecurity, where technical problem-solving delivers real-world results. Contributing to a development project introduced me to secure coding practices and inspired my focus on security concepts and defense strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since then, I have earned the **CompTIA Security+**, **PJPT**, and **PNPT** certifications, and completed projects such as a **SOC automation workflow with Wazuh, Shuffle, and TheHive** to deepen my understanding of detection and response.  
+
+My immediate goal is to join a **Security Operations Center (SOC)** as a Tier 1 Analyst and further develop my skills by pursuing the **Certified Defensive Security Analyst (CDSA)** and **Blue Team Level 2** certifications. In the long term, I aim to move into **penetration testing**, leveraging both defensive and offensive expertise to help organizations address emerging threats.
+
+
