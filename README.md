@@ -13,4 +13,14 @@ Since then, I have earned the **CompTIA Security+**, **PJPT**, and **PNPT** cert
 
 My immediate goal is to join a **Security Operations Center (SOC)** as a Tier 1 Analyst and further develop my skills by pursuing the **Certified Defensive Security Analyst (CDSA)** and **Blue Team Level 2** certifications. In the long term, I aim to move into **penetration testing**, leveraging both defensive and offensive expertise to help organizations address emerging threats.
 
+## Skills Gained
+
+| Category              | Skills & Tools                                                                  | Source(s)                                   |
+|-----------------------|---------------------------------------------------------------------------------|---------------------------------------------|
+| **Security Concepts** | Incident Response, Threat Detection, Access Control, Encryption, OSINT          | CompTIA Security+                           |
+| **SOC & Monitoring**  | Wazuh, TheHive, Shuffle SOAR, SIEM Concepts, Log Analysis                       | SOC Automation Project                      |
+| **Offensive Security**| Network Scanning, Vulnerability Assessment, Active Directory Exploitation       | PJPT, PNPT                                  |
+| **Networking**        | TCP/IP, Firewalls, IDS/IPS, Packet Analysis                                     | CompTIA Security+                           |
+| **Scripting & Tools** | Python, Bash, Nmap, Burp Suite, Metasploit                                      | PNPT, Personal Labs, SOC Automation Project |
+
 
