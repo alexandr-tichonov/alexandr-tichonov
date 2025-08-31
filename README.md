@@ -22,7 +22,7 @@ My immediate goal is to join a **Security Operations Center (SOC)** as a Tier 1 
 | **Security Automation**   | Build automated playbooks in Shuffle SOAR to enrich IOCs, block malicious IPs, and reduce analyst workload | SOC Automation Project |
 | **Case Management**       | Manage, document, and track incidents efficiently using TheHive                                    | SOC Automation Project |
 | **Vulnerability Assessment** | Perform scans, interpret results, and prioritize remediation based on risk                       | PJPT, PNPT             |
-| **Exploitation Basics**   | Demonstrate controlled exploitation of misconfigurations and vulnerabilities to validate risk        | PNPT                   |
+| **Exploitation Basics**   | Demonstrate controlled exploitation of misconfigurations and vulnerabilities to validate risk        | PJPT, PNPT                   |
 | **Access Control**        | Apply principles of least privilege, enforce authentication/authorization, and audit user activity   | CompTIA Security+      |
 | **OSINT & Recon**         | Gather and analyze open-source intelligence to support defensive and offensive investigations        | PNPT                   |
 | **Networking & Protocols**| Understand TCP/IP, analyze packets, and troubleshoot security issues in network communications       | CompTIA Security+      |
