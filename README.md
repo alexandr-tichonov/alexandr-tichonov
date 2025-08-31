@@ -13,9 +13,7 @@ Since then, I have earned the **CompTIA Security+**, **PJPT**, and **PNPT** cert
 
 My immediate goal is to join a **Security Operations Center (SOC)** as a Tier 1 Analyst and further develop my skills by pursuing the **Certified Defensive Security Analyst (CDSA)** and **Blue Team Level 2** certifications. In the long term, I aim to move into **penetration testing**, leveraging both defensive and offensive expertise to help organizations address emerging threats.
 
-## Skills Gained
-
-## 🛡️ Skills Gained  
+## Skills Gained 
 
 | Category                  | What I Can Do                                                                                       | Source(s)              |
 |---------------------------|----------------------------------------------------------------------------------------------------|------------------------|
